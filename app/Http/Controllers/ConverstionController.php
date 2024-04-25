@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
+//Url : http://127.0.0.1:8000/api/convertion
 class ConverstionController extends Controller
 {
     public function convert(Request $request) {
